@@ -4,7 +4,7 @@ My name's [lthon09](https://github.com/lthon09/) and I mostly use [Python](https
 
 ---
 
-All of my repositories are [here](https://github.com/lthon09?tab=repositories), which you might be interested
+All of my repositories are [here](https://github.com/lthon09?tab=repositories), which you might be interested in
 
 ---
 
