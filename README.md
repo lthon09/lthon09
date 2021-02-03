@@ -16,7 +16,7 @@ Follow my account if you want to be informed about anything and everything I'm d
 
 ![My statistics](https://github-readme-stats.vercel.app/api?username=lthon09)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+![Languages that I mostly use](https://github-readme-stats.vercel.app/api/top-langs/?username=lthon09)]
 
 ---
 
