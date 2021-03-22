@@ -1,6 +1,6 @@
 ### 👋 Hey there! 👋
 
-My name's [lthon09](https://github.com/lthon09/) and I mostly use [Python](https://www.python.org) in my repositories, I also use [HTML](https://html.com) for my repositories too!
+My name's [lthon09](https://github.com/lthon09) and I mostly code **Python** in my repositories, I also use **HTML** too!
 
 ---
 
@@ -13,6 +13,8 @@ You can find more about me at [my personal website](https://lthon09.repl.co), fi
 Follow my account if you want to be informed about anything and everything I'm doing on GitHub such as forks, new repositories, private to public repository, new follower
 
 ---
+
+#### 📊 MY STATISTICS 📊
 
 ![My statistics](https://github-readme-stats.vercel.app/api?username=lthon09)
 
