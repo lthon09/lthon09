@@ -1,6 +1,6 @@
 ### 👋 Hey there! 👋
 
-My name's [lthon09](https://github.com/lthon09) and I mostly code **Python** in my repositories, I also use **HTML** too!
+My name's [lthon09](https://github.com/lthon09), I'm from **Vietnam**
 
 ---
 
