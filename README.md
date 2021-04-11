@@ -1,14 +1,14 @@
 ### 👋 Hey there! 👋
 
-My name's [lthon09](https://github.com/lthon09), I'm from **Vietnam**
+My name's **[lthon09](https://github.com/lthon09)**, I'm from **Vietnam** and I code for fun!
 
 ---
 
-All of my repositories are [here](https://github.com/lthon09?tab=repositories), which you might be interested in
+All of my repositories are **[here](https://github.com/lthon09?tab=repositories)**, which you might be interested in
 
 ---
 
-You can find more about me at [my personal website](https://lthon09.repl.co), find my stuff and connect to me on social medias
+You can find more about me at **[my personal website](https://lthon09.repl.co)**, find my stuff and connect to me on social medias
 
 Follow my account if you want to be informed about anything and everything I'm doing on GitHub such as forks, new repositories, private to public repository, new follower
 
