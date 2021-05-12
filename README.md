@@ -20,6 +20,13 @@ Follow my account if you want to be announced about everything I'm doing on GitH
 
 ---
 
+#### 🔖 MY BIG PROJECTS 🔖
+
+- [DuckBot](https://duckbot.website2.me)
+- [replter](https://www.replter.tk)
+
+---
+
 #### 📊 MY STATISTICS 📊
 
 ![My statistics](https://github-readme-stats.vercel.app/api?username=lthon09)
