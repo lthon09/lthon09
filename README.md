@@ -8,9 +8,7 @@ All of my repositories are **[here](https://github.com/lthon09?tab=repositories)
 
 ---
 
-You can find more about me at **[my personal website](https://www.lthon09.tk)**, find my stuff and connect to me on social medias
-
-![Status of my personal website](https://img.shields.io/website?url=https%3A%2F%2Fwww.lthon09.tk)
+You can find more about me at **[my personal website](https://www.lthon09.tk)**, find my stuff and connect to me on social medias | ![Status of my personal website](https://img.shields.io/website?url=https%3A%2F%2Fwww.lthon09.tk)
 
 Follow my account if you want to be informed about anything and everything I'm doing on GitHub such as forks, new repositories, private to public repository, new follower
 
