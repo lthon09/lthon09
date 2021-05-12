@@ -20,7 +20,7 @@ Follow my account if you want to be announced about everything I'm doing on GitH
 
 ---
 
-#### 🔖 MY BIG PROJECTS 🔖
+#### 📌 MY BIG PROJECTS 📌
 
 - [DuckBot](https://duckbot.website2.me)
 - [replter](https://www.replter.tk)
