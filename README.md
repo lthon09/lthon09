@@ -1,31 +1,14 @@
-### 👋 Hey there! 👋
+What's up?
 
-My name's [lthon09](https://github.com/lthon09), I'm from **Vietnam** and I code for fun!
-
----
-
-All of my repositories are [here](https://github.com/lthon09?tab=repositories), which you might be interested in
+My name's [lthon09](https://github.com/lthon09), I'm from **Vietnam**
 
 ---
 
-You can find more about me at [my personal website](https://www.lthon09.tk), find my stuff and connect to me on social medias ![Status of my personal website](https://img.shields.io/website?url=https%3A%2F%2Fwww.lthon09.tk)
-
-Follow my account if you want to be announced about everything I'm doing on GitHub such as forks, new repositories, private to public repository, new follower
+View my repositories [here](https://github.com/lthon09?tab=repositories)
 
 ---
 
-#### 🚧 PROJECTS I'M WORKING ON 🚧
-
-*None*
-
----
-
-#### 📌 MY BIG PROJECTS 📌
-
-- [DuckBot](https://duckbot.website2.me)
-- [replter](https://www.replter.tk)
-
----
+You can visit [my personal website](https://www.lthon09.tk) if you want
 
 #### 📊 MY STATISTICS 📊
 
@@ -35,4 +18,4 @@ Follow my account if you want to be announced about everything I'm doing on GitH
 
 ---
 
-That's all about me, I hope you have a great day! ❤️
+That's it
