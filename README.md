@@ -1,4 +1,4 @@
-What's up?
+Sup
 
 My name's [lthon09](https://github.com/lthon09), I'm from **Vietnam**
 
