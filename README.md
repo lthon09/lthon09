@@ -1,6 +1,6 @@
 # Hey 👋
 
-Most of my repositories are private. Working on [Xen0n](https://github.com/Xen0n-XE).
+Most of my repositories are private, you won't find anything here.
 
 **Primary GPG Key ID**: `C25C11332AA6B9E2`
 
