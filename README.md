@@ -1,7 +1,3 @@
-Most of my repositories are private, you won't find anything here.
+hi!!
 
-**Primary GPG Key ID**: `C25C11332AA6B9E2`
-
----
-
-[**Personal Website**](https://lthon09.eu.org)
+most of my repositories are private, you won't find anything.
